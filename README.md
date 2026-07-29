@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Diana Monteiro 👋
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1F3A6E,100:58A6FF&height=180&section=header&text=Hi,%20I'm%20Diana%20Monteiro%20👋&fontSize=36&fontColor=ffffff&fontAlignY=55&animation=fadeIn)
 
-### Full Stack Developer | Java · Spring Boot · React · Next.js · TypeScript
+[![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+PostgreSQL;React+%7C+Next.js+%7C+TypeScript;Generative+AI+Explorer+🤖)](https://git.io/typing-svg)
 
 *Turning complex data into high-impact experiences — from back-end to front-end.*
 
