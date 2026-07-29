@@ -50,12 +50,6 @@ Full Stack Developer with 4+ years of experience building scalable web apps with
 
 ---
 
-## 🚀 Featured Projects
-
-> *Coming soon — stay tuned!* 👀
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
