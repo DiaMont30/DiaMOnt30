@@ -53,7 +53,7 @@ Full Stack Developer with 4+ years of experience building scalable web apps with
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/DiaMont30/DiaMont30/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/DiaMont30/DiaMont30/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
