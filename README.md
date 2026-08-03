@@ -49,6 +49,14 @@ Full Stack Developer with 4+ years of experience building scalable web apps with
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![snake animation](https://raw.githubusercontent.com/DiaMont30/DiaMont30/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+---
 
 <div align="center">
 
