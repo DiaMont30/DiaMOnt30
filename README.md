@@ -50,16 +50,6 @@ Full Stack Developer with 4+ years of experience building scalable web apps with
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiaMont30&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 <div align="center">
 
 *"The best way to learn is by building — and the best way to grow is by collaborating."*
