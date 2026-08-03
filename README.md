@@ -54,10 +54,9 @@ Full Stack Developer with 4+ years of experience building scalable web apps with
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiaMont30&theme=tokyonight"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=DiaMont30&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiaMont30&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DiaMont30&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiaMont30&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
